@@ -1,7 +1,7 @@
 let nombre = "Hola Mundo"; 
-let NombreCompleto;
-let nombreCompleto;
-let nombre_completo;
+let NombreCompleto; // UpperCamelCase
+let nombreCompleto; //camelCase
+let nombre_completo; // snake_case
 
 console.log(nombre);
 
